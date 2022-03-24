@@ -2,7 +2,7 @@
 
     Third project of the android mobile development formation OpenClassrooms 
 
-    --> 
+    -->  https://github.com/khaleddevfs/P3_EntreVoisins.git
 
 
 ## **Features**
