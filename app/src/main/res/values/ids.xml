@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fbUrlLyt" type="id" />
+    <item name="favorite_neighbours" type="id" />
+    <item name="Neighbour_Details" type="id" />
+</resources>
